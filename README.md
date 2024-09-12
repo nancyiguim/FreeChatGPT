@@ -24,4 +24,5 @@ For context, Hoody AI is a new product from Hoody.com, a relatively recent **pri
 I'm not posting this to encourage abuse of their services, please consider subscribing if you like it. 
 
 If this was useful, consider donating, even a tiny bit would really, REALLY help me.
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D7YARD)
